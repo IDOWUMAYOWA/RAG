@@ -27,7 +27,7 @@ This demonstrates an end-to-end production-style RAG workflow.
 
 > Add your screenshot image to the repository (for example: `assets/app.png`) and make sure the file path matches below.
 
-![RAG App Screenshot](screenshot.pmgg)
+![RAG App Screenshot](screenshot.png)
 
 ---
 
